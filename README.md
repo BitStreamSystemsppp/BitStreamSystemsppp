@@ -1,112 +1,127 @@
-# 🚀 BitStream Systems
+!-- HERO SECTION -->
+
+<h1 align="center">
+  🚀 BitStream Systems
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
+  <strong>Engineering Scalable Digital Systems for the Modern World.</strong>
 </p>
 
 <p align="center">
-  <strong>Building modern, scalable and high-performance digital solutions.</strong><br/>
-  Frontend • Backend • Automation • Integration
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,mongodb,postgres,docker,aws,git" />
 </p>
-
----
-
-## 🌍 About Us
-
-**BitStream Systems** is a modern digital solutions company focused on building scalable web systems, automation tools and high-performance applications.
-
-We turn ideas into real, working digital products.
-
-Our mission is simple:
-
-> Clean architecture.  
-> Scalable systems.  
-> Real business impact.
-
----
-
-## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,express,mongodb,postgres,git,github,docker" />
-
+  High-performance Web Systems • Automation • API Integrations • Scalable Architectures
 </p>
 
-### Core Technologies
+---
 
-- ⚡ JavaScript / TypeScript
-- 🚀 Node.js & Express
-- 🗄 MongoDB & PostgreSQL
-- 🎨 Modern Frontend Interfaces
-- 🔐 REST API Architecture
-- 🧠 Automation & Integration
+## 🌍 Who We Are
+
+BitStream Systems is a modern software development company focused on building **scalable, secure and high-performance digital solutions**.
+
+We don’t just write code.  
+We engineer systems designed to grow.
+
+Our approach combines:
+
+- Clean Architecture
+- Modular Design
+- Performance Optimization
+- Real Business Impact
 
 ---
 
-## 💼 Services
+## 🧠 Our Philosophy
 
-### 🔹 Custom Web Development
-Modern responsive websites built for performance and conversion.
+> Build once. Scale forever.
 
-### 🔹 Backend Systems
-Robust, scalable backend architectures.
+We design systems that are:
 
-### 🔹 Automation Solutions
-Workflow automation and digital process optimization.
-
-### 🔹 Business Integration
-Connecting APIs and systems to create seamless operations.
+- Future-ready
+- Easy to maintain
+- Built for performance
+- Designed for real-world use
 
 ---
 
-## 🧩 Selected Projects
+## ⚙️ Core Expertise
+
+### 🔹 Backend Engineering
+Robust APIs built with Node.js and TypeScript.
+
+### 🔹 Fullstack Web Applications
+Modern responsive systems with seamless user experience.
+
+### 🔹 Automation & Integration
+Optimizing workflows and connecting digital ecosystems.
+
+### 🔹 System Architecture
+Designing scalable infrastructures that support growth.
+
+---
+
+## 🛠 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,mongodb,postgres,docker,git,github" />
+</p>
+
+**Languages & Tools:**
+- JavaScript / TypeScript
+- Node.js / Express
+- MongoDB / PostgreSQL
+- REST APIs
+- Docker
+- Git & CI workflows
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🌐 English Tuition | Educational platform with modern UI |
-| 🏡 Vacation Stay | Clean booking-style website |
-| 🔧 London WeFix | Service business website |
-| 🎯 Number Guessing Game | Interactive JavaScript project |
+| 🌐 English Tuition Platform | Modern educational web experience |
+| 🏡 Vacation Stay | Booking-style responsive interface |
+| 🔧 London WeFix | Service company digital solution |
+| 🎯 Interactive JS Applications | Logic-driven frontend projects |
 
 ---
 
-## 📊 Development Philosophy
-
-We believe in:
-
-- Clean Code
-- Modular Architecture
-- Scalability First
-- Real-World Application
-- Performance Optimization
-
----
-
-## ⚙️ How We Work
+## 📈 Our Development Process
 
 ```bash
-Plan → Design → Develop → Test → Deploy → Optimize
-We follow structured development practices and build with long-term scalability in mind.
-📈 Vision
-Our goal is to build systems that are:
-Fast
-Secure
-Maintainable
-Business-oriented
-Future-ready
-🧠 Founder
+Discovery → Architecture → Development → Testing → Deployment → Optimization
+We build systems that are production-ready from day one.
+🧩 What Makes Us Different
+✔ Clean and scalable code
+✔ Business-oriented thinking
+✔ Performance-first mindset
+✔ Long-term maintainability
+✔ Strategic system design
+🌐 Vision
+To become a reference in scalable digital system engineering across Europe and beyond.
+We believe technology should:
+Empower businesses
+Automate complexity
+Create growth
+Deliver measurable results
+👨‍💻 Founder
 Vitor Melo
-Backend Developer
-Node.js • TypeScript • REST APIs
-Building scalable systems and digital solutions.
-📫 Contact
-🌐 https://bitstreamsystems.io⁠�
-📷 Instagram: @bitstream.systems
-📩 Open to collaborations and projects
-�
-￼ 
-
+Backend Developer | System Builder
+Specialized in:
+API Architecture
+Scalable Backend Systems
+Business Automation
+Digital Infrastructure
+🤝 Open to Collaboration
+We are currently open to:
+Freelance Projects
+Partnerships
+SaaS Development
+Digital Product Building
 �
 BitStream Systems — Engineering the Future. 
 ```
