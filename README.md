@@ -1,4 +1,3 @@
-!-- HERO SECTION -->
 
 <h1 align="center">
   🚀 BitStream Systems
